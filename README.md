@@ -1,3 +1,2 @@
 # Neural-networks
-Neural networks
-Video link: 
+Assignment Video link: 
